@@ -3,3 +3,4 @@ This the 2nd day.
 Poll SCM
 This is a feature in Jenkins
 that checks for changes
+in the source code repository
