@@ -4,3 +4,4 @@ Poll SCM
 This is a feature in Jenkins
 that checks for changes
 in the source code repository
+at the  regular intervals.
